@@ -4,12 +4,10 @@ const urlsToCache = [
   '/2D-code-file-transfer/index.html',
   '/2D-code-file-transfer/main.css',
   '/2D-code-file-transfer/main.js',
-  /*
   'https://cdn.jsdelivr.net/npm/qrcode@1.4.4/build/qrcode.min.js',
   'https://cdn.jsdelivr.net/npm/jsqr@1.4.0/dist/jsQR.min.js',
   'https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js',
   'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css',
-  //*/
 ];
 
 self.addEventListener('install', (event) => {
