@@ -2,7 +2,6 @@ const CACHE_NAME = '2d-code-file-transfer-cache-v1';
 const urlsToCache = [
   '/2D-code-file-transfer/',
   '/2D-code-file-transfer/index.html',
-  '/2D-code-file-transfer/main.css',
   '/2D-code-file-transfer/main.js',
   'https://cdn.jsdelivr.net/npm/qrcode@1.4.4/build/qrcode.min.js',
   'https://cdn.jsdelivr.net/npm/jsqr@1.4.0/dist/jsQR.min.js',
