@@ -2,7 +2,7 @@
   "name": "2D Code File Transfer",
   "short_name": "2D Code Transfer",
   "description": "Transfer files between devices using a series of 2D codes, with a simple and user-friendly web interface.",
-  "start_url": "/",
+  "start_url": "https://kasys1422.github.io/2D-code-file-transfer/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
