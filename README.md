@@ -12,7 +12,7 @@
 
 ## Usage
 
-1.  Open the `index.html` file in a modern web browser on both the sender and receiver devices.
+1.  Open the [site](https://kasys1422.github.io/2D-code-file-transfer/) in a modern web browser on both the sender and receiver devices.
 2.  On the sender's device, click the "Choose File" button and select the file you want to transfer.
 3.  On the receiver's device, click the "Start Camera" button and allow camera access.
 4.  The sender's device will display a series of 2D codes. Point the receiver's camera at the codes, making sure to scan them all in order.
