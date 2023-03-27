@@ -21,5 +21,5 @@
 ## Limitations
 
 * The file transfer speed depends on the scanning capabilities of the receiver's device.
-* Large files might require a significant amount of time to transfer.
+* Large files take longer to transfer, so 20KB is a realistic capacity limit.
 * The 2D codes must be scanned in order for the file transfer to be successful. Make sure the receiver's device scans each code correctly.
